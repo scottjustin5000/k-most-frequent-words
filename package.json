@@ -1,0 +1,24 @@
+{
+  "name": "k-most-frequent-words",
+  "version": "1.0.0",
+  "description": "trie min heap implementation of k most frequent words",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottjustin5000/k-most-frequent-words.git"
+  },
+  "keywords": [
+    "trie",
+    "min",
+    "heap"
+  ],
+  "author": "scottjustin5000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottjustin5000/k-most-frequent-words/issues"
+  },
+  "homepage": "https://github.com/scottjustin5000/k-most-frequent-words#readme"
+}
